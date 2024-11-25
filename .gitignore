@@ -1,0 +1,5 @@
+# Ignorar las  ccarpetas
+top_secret
+
+#Ignorar Ficheros fuente de Photoshop
+*.xsd
